@@ -1,41 +1,43 @@
 <h1 align="center">Hi 👋, I'm Bhavya Kumar</h1>
+<h3 align="center">Programming Enthusiast | Learning Core Computer Science Concepts</h3>
 
 <p align="center">
-A programming enthusiast focused on building strong computer science fundamentals and improving problem-solving skills through code.
+Building strong programming fundamentals and exploring computer science concepts through small projects and problem solving.
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently improving **programming fundamentals and core CS concepts**
-- 💻 Practicing problem solving and debugging
+- 🌱 Currently learning **core programming concepts and computer science fundamentals**
+- 💻 Practicing **problem solving and debugging**
 - 🧠 Exploring **Object-Oriented Programming and program logic**
-- 🔨 Building small projects to strengthen coding skills
+- 🚀 Building small projects to strengthen coding skills
+- 🔧 Working with **Git and GitHub** for version control
 
 ---
 
 ## 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,js" />
-</p>
+<p align="center">
 
-- **Java**
-- **C**
-- **C++**
-- **JavaScript**
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+<img src="https://skillicons.dev/icons?i=c" height="45"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+<img src="https://skillicons.dev/icons?i=js" height="45"/>
+
+</p>
 
 ---
 
-## 🧠 Concepts I'm Exploring
+## 🧠 Computer Science Concepts
 
-- Object-Oriented Programming (OOP)  
-- Command Line Arguments  
-- Arrays & Loops  
-- Input Handling  
-- Debugging Techniques  
-- Program Logic  
+- Object-Oriented Programming (OOP)
+- Command Line Arguments
+- Arrays and Loops
+- Input Handling
+- Debugging Techniques
+- Program Logic
 
 ---
 
@@ -51,40 +53,62 @@ A programming enthusiast focused on building strong computer science fundamental
 
 ## 🛠 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github" />
-</p>
+<p align="center">
 
-- Git  
-- GitHub  
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+
+</p>
 
 ---
 
-## 📂 Projects
+## 🚀 Projects
 
-🔹 **Java Number Guessing Game**
+### 🎮 Java Number Guessing Game
 
-A simple console game built using **Object-Oriented Programming** concepts where:
-- Guesser selects a number
-- Multiple players attempt to guess it
-- An umpire evaluates the results
+A console-based game built using **Object-Oriented Programming**.
 
-This project helped reinforce:
-- Class design
-- Object creation
-- Basic program structure
+**Concepts used**
+
+- Classes & Objects
+- Method interaction
+- Basic game logic
+
+Players attempt to guess a number selected by the guesser while an umpire evaluates the results.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
 ## 📚 Current Focus
 
 - Writing **cleaner and more efficient code**
-- Strengthening **core programming fundamentals**
-- Practicing **problem solving**
-- Building more small but meaningful projects
+- Improving **problem solving ability**
+- Strengthening **programming fundamentals**
+- Building more **small projects**
 
 ---
 
 <p align="center">
-⭐ If you find my projects interesting, feel free to explore them!
+⭐ Thanks for visiting my profile!
 </p>

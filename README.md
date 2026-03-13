@@ -30,26 +30,6 @@ Building strong programming fundamentals and exploring computer science concepts
 
 ---
 
-## 🧠 Computer Science Concepts
-
-- Object-Oriented Programming (OOP)
-- Command Line Arguments
-- Arrays and Loops
-- Input Handling
-- Debugging Techniques
-- Program Logic
-
----
-
-## 📊 Mathematical & Statistical Concepts
-
-- Random Variables  
-- Probability Mass Function (PMF)  
-- Probability Density Function (PDF)  
-- Cumulative Distribution Function (CDF)  
-- Expectation of Random Variables  
-
----
 
 ## 🛠 Tools
 

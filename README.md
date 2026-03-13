@@ -60,21 +60,6 @@ Building strong programming fundamentals and exploring computer science concepts
 
 </p>
 
----
-
-## 🚀 Projects
-
-### 🎮 Java Number Guessing Game
-
-A console-based game built using **Object-Oriented Programming**.
-
-**Concepts used**
-
-- Classes & Objects
-- Method interaction
-- Basic game logic
-
-Players attempt to guess a number selected by the guesser while an umpire evaluates the results.
 
 ---
 

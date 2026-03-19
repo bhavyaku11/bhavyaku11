@@ -1,58 +1,64 @@
-<h1 align="center">Hi 👋, I'm Bhavya Kumar</h1>
-<h3 align="center">Programming Enthusiast | Learning Core Computer Science Concepts</h3>
+<!-- MASTER HEAD BANNER --> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" /> <!-- TYPING - NAME --> <div align="center">
 
-<p align="center">
-Building strong programming fundamentals and exploring computer science concepts through small projects and problem solving.
-</p>
+</div> <br/> <h3 align="center"> A Passionate Developer and Problem Solver &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="25" /> &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" /> &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" width="25" /> </h3>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
+> whoami
+name      : Bhavya Kumar
+role      : B.Tech CSE Student
+location  : Bengaluru, Karnataka, India
+degree    : B.Tech CSE  |  Semester 2
 
----
+focus:
+  - Frontend Development
+  - Data Structures & Algorithms
+  - UI/UX Design
 
-## 👨‍💻 About Me
+currently_learning:
+  - System Design Fundamentals
+  - AI/ML Basics
 
-- 🌱 Currently learning **core programming concepts and computer science fundamentals**
-- 💻 Practicing **problem solving and debugging**
-- 🧠 Exploring **Object-Oriented Programming and program logic**
-- 🚀 Building small projects to strengthen coding skills
-- 🔧 Working with **Git and GitHub** for version control
-
----
-
-## 💻 Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java" height="45"/>
-<img src="https://skillicons.dev/icons?i=c" height="45"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
-<img src="https://skillicons.dev/icons?i=js" height="45"/>
-
-</p>
-
----
+hobbies:
+  - Coding
+  - Vibe Coding
+  - Hackathons
+<br clear="right"/> <div align="center">
 
 
-## 🛠 Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-
-</p>
 
 
----
 
 
-## 📚 Current Focus
+</div>
+> tech --stack
+<div align="center">
 
-- Writing **cleaner and more efficient code**
-- Improving **problem solving ability**
-- Strengthening **programming fundamentals**
-- Building more **small projects**
+Languages
 
----
 
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
+Design & Tools
+
+
+Currently Learning
+
+
+</div>
+> cp --platforms
+<div align="center">
+
+
+ 
+
+
+ 
+
+
+</div>
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" width="100%"/>
+
+<sub>made with <b>💜</b>  |  <b>Bhavya Kumar</b>  |  Bengaluru 2026</sub>
+
+</div>

@@ -95,6 +95,6 @@ hobbies:
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" width="100%"/>
 
-<sub>made with <b>💜</b> &nbsp;|&nbsp; <b>Bhavya Kumar</b> &nbsp;|&nbsp; Bengaluru 2026</sub>
+<sub>made with <b>💗</b> &nbsp;|&nbsp; <b>Bhavya Kumar</b> &nbsp;|&nbsp; Bengaluru 2026</sub>
 
 </div>

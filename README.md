@@ -31,7 +31,7 @@ A Passionate Developer and Problem Solver
 
 ```yaml
 name      : Bhavya Kumar
-role      : B.Tech CSE Student
+role      : Student
 location  : Bengaluru, Karnataka, India
 degree    : B.Tech CSE  |  Semester 2
 
